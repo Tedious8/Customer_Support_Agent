@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langgraph
+langchain
+langchain-google-genai
+langchain-core
+pydantic
+python-dotenv
+rich
+httpx
+pytest
+pytest-asyncio
+tabulate
